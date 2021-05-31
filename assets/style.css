@@ -97,6 +97,10 @@ img {
     padding-bottom: 2rem;
 }
 
+.hyper-link {
+    font-weight: bold;
+    font-size: 18px;
+}
 
 .bd-grid {
     max-width: 1024px;
